@@ -1,0 +1,16 @@
+markdown: redcarpet
+redcarpet:
+  extensions: ["autolink", "tables", "strikethrough"]
+permalink: /:year/:month/:day/:title 
+title: HJ
+url: http://ztpala.com
+githubEditBaseURL: https://github.com/pala/pala.github.com/edit/master/
+subscribe: 
+exclude: [ README.md, newpost.rb ]
+domain: ztpala.com
+author: Hj
+email: ztpala+blog@gmail.com
+twitterID: ztpala
+googleAnalyticsID: UA-5531632-1
+disqusShortname: ztpala
+timezone: America/New_York
