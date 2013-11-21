@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: http://ztpala.com/sitemap.xml
+Sitemap: villa0840.github.io/sitemap.xml
