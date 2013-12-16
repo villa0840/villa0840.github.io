@@ -1,6 +1,8 @@
+---
 layout: post
 title: 人生就像一场漫长的旅行
 description: 摘抄文
+date: 2013-12-15 20:04:00
 tags: "Mind"
 ---
 
