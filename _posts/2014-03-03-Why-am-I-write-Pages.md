@@ -1,8 +1,7 @@
----
 layout: post
 title: 为什么写Pages
 description: Some Description
-date: 2014-03-04 11:16:24 +08:00
+date: 2014-03-03
 tags: "Pages"
 ---
 
